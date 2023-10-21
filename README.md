@@ -146,7 +146,7 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![image](https://github.com/Kishorekumar22060/slot/assets/141472136/68f64424-5d7c-4a86-9daa-fdfedc01c0a1)
+<img width="1440" alt="Screenshot 2023-10-21 at 9 20 32 AM" src="https://github.com/Kishorekumar22060/slot/assets/141472136/181e36ae-f740-4d4f-b75a-e4851cb55861">
 
 
 
